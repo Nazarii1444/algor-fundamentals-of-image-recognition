@@ -1,1 +1,1 @@
-# algor-fundamentals-of-image-recognition
+# algorithmic-fundamentals-of-image-recognition
