@@ -1,0 +1,31 @@
+apple_pie
+biriyani
+bisibelebath
+butternaan
+chaat
+chappati
+cheesecake
+chicken_curry
+dhokla
+dosa
+french_fries
+fried_rice
+gulab jamun
+halwa
+hamburger
+hot_dog
+ice_cream
+idly
+kathi roll
+meduvadai
+noodles
+omelette
+paniyaram
+pizza
+poori
+samosa
+sushi
+tandoori chicken
+upma
+vada pav
+ven pongal
